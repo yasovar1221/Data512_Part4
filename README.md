@@ -75,7 +75,8 @@ The notebook integrates datasets from the following sources:
    - `TownEmp` files (2000–2023)
 3. Install dependencies:
    ```bash
-   pip install pandas matplotlib statsmodels tabulate```
+   pip install pandas matplotlib statsmodels tabulate
+   ```
 
 ### Running the Notebook
 Open the notebook in Jupyter and execute cells sequentially to:
